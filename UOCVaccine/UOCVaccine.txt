@@ -1,0 +1,1 @@
+../build-Debug/src_person.c.o ../build-Debug/src_vaccine.c.o ../build-Debug/src_date.c.o ../build-Debug/src_center.c.o ../build-Debug/src_appointment.c.o ../build-Debug/src_csv.c.o ../build-Debug/src_api.c.o ../build-Debug/src_stock.c.o
